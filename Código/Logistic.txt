@@ -1,0 +1,4 @@
+logistic <- function(r,y)
+{
+  return(dy=r*x*(1-x))
+}
